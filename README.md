@@ -53,13 +53,3 @@ The Power BI dashboard provides:
 
 ---
 
-## 📂 Project Structure
-
-```text
-PowerBI-Air-Quality-Dashboard/
-│
-├── Dashboard.pbix
-├── data/
-│   └── air_quality_dataset.csv
-│
-└── README.md
