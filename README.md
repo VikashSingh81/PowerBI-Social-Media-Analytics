@@ -1,4 +1,9 @@
-<h1 align="center">📊 Social Media Addiction Analytics Dashboard</h1>
+<!-- <h1 align="center">📊 Social Media Addiction Analytics Dashboard</h1> -->
+
+<h1 align="center">
+  📊 Social Media Addiction Analytics Dashboard
+  <img src="./Images/img4.png" height="60" alt="Power BI Logo" style="position: relative; top: -5px;">
+</h1>
 
 <p align="center">
 An interactive <b>Power BI Dashboard</b> that transforms raw student data into meaningful insights by analyzing social media addiction patterns, screen time, sleep quality, mental health, and academic performance.
